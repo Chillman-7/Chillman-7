@@ -1,23 +1,125 @@
-<h1 align="center">Hi 👋, I'm Varun Patil</h1>
-<h3 align="center">Backend Developer @ Rakuten | Exploring AI Engineering & Building Intelligent Systems</h3>
+# Hey there! 👋 I'm Varun Patil
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chillman-7&label=Profile%20views&color=0e75b6&style=flat" alt="chillman-7" /> </p>
+### Software Engineer @ Rakuten | Java & Spring Boot | Generative AI | Agentic AI
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chillman-7" alt="chillman-7" /></a> </p>
+I build scalable backend applications and explore the intersection of **Backend Engineering and Artificial Intelligence**.
 
-- 💬 Ask me about **Generative-AI,Java-Springboot,React-JS,,**
+Currently deepening my expertise in **Java, Spring Boot, Microservices, System Design, and Distributed Systems**, while building intelligent applications powered by **LLMs, RAG, and Agentic AI**.
 
-- 📫 How to reach me **varunpes34@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🚀 About Me
+
+- 💼 Associate Software Engineer at **Rakuten**
+- ☕ Focused on **Java, Spring Boot, REST APIs, Microservices & Backend Architecture**
+- 🤖 Exploring **Generative AI, Agentic AI, RAG & Multi-Agent Systems**
+- 🧠 Solved **570+ problems on LeetCode**
+- 🔍 Interested in distributed systems, scalable architectures and AI-powered applications
+- 🌱 Continuously learning, building and improving my engineering skills.
+
+---
+
+## 💻 Tech Stack & Technologies
+
+### ☕ Backend Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,fastapi" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🤖 AI / Generative AI / Agentic AI
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chillman-7&show_icons=true&locale=en&layout=compact" alt="chillman-7" /></p>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-202020?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6C3483?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-0A66C2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-333333?style=for-the-badge&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chillman-7&show_icons=true&locale=en" alt="chillman-7" /></p>
+### 🗄️ Databases & Messaging
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chillman-7&" alt="chillman-7" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,kafka" />
+</p>
+
+### ⚛️ Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind" />
+</p>
+
+### ⚙️ DevOps, Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,git,github,linux,postman" />
+</p>
+
+---
+
+## 🧠 Areas I'm Exploring
+
+| Domain | Focus Areas |
+|---|---|
+| Backend Engineering | Java, Spring Boot, Spring Security, JPA, Hibernate |
+| System Design | Microservices, Design Patterns, Distributed Systems |
+| Messaging & Infrastructure | Kafka, Redis, Docker, Kubernetes |
+| Generative AI | LLMs, Prompt Engineering, Embeddings |
+| Retrieval-Augmented Generation | RAG, Vector Databases, Reranking |
+| Agentic AI | LangGraph, Multi-Agent Systems, Tool Calling, MCP |
+| AI Engineering | Evaluation, AI Workflows, Production-ready AI Applications |
+
+---
+
+## 📌 Featured Projects
+
+**A few projects I've worked on:**
+
+- **BillAgent** – AI-powered automation tool built with FastAPI and React.
+- **Order Management Dashboard** – Enterprise application built using React, Spring Boot and Kafka.
+- **StudyNotion** – Full-stack EdTech application built using the MERN stack.
+- **BlindAssistant** – AI-powered assistance application using YOLOv8.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chillman-7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chillman-7&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=chillman-7&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chillman-7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="mailto:varunpes34@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/chillman-7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building scalable systems. Exploring intelligent machines. Solving meaningful problems.</i>
+  <br/>
+  <b>Always learning. Always building. 🚀</b>
+</p>
